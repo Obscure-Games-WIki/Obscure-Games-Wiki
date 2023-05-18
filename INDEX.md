@@ -16,3 +16,7 @@ We maintain a list of obscure games
 [Hidden Gems](/categories/hiddengems.md)
 [Mediocore](/categories/mediocore.md)
 [Bad](/categories/bad.md)
+
+The Obscure Games Wiki © 2023 by OGW Contributors is licensed under CC BY-NC-SA 4.0 
+
+
